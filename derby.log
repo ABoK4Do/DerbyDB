@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 09 23:49:23 SAMT 2017:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): экземпляр a816c00e-0159-84c7-300b-00000e61e458
+в каталоге базы данных /Users/ABoK4Do/Documents/DerbyRestaurant/Restaurant sun.misc.Launcher$AppClassLoader@27c170f0 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_92-b14
+user.dir=/Users/ABoK4Do/Documents/DerbyRestaurant
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
